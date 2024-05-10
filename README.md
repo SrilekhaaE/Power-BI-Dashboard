@@ -2,6 +2,7 @@
 
 Problem Statement 1: KPI’s Requirement
 I have created a dashboard that provides real-time insights into key performance indicators (KPIs) related to sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
+
 Sales Overview:
 Year-to-Date (YTD) Total Sales,
 Month-to-Date (MTD) Total Sales,
